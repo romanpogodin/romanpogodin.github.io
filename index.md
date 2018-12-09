@@ -16,6 +16,8 @@ Besides that, I did a few research internships:
 2. [EPFL, SRP program][epfl], Wulfram Gerstner's lab (summer 2016);
 3. [LMU, Amgen Scholars program][lmu], Christian Leibold's lab (summer 2015).
 
+Email: name.surname.17@ucl.ac.uk
+
 [gatsby]: http://www.gatsby.ucl.ac.uk/
 [mipt]: https://mipt.ru/english/
 [shad]: https://yandexdataschool.com/
