@@ -21,7 +21,7 @@ Besides that, I did a few research internships:
 
 Email: name.surname.17@ucl.ac.uk
 
-[Google Scholar][googlescholar]
+[CV][cv], [Google Scholar][googlescholar]
 
 [gatsby]: http://www.gatsby.ucl.ac.uk/
 [mipt]: https://mipt.ru/english/
@@ -32,4 +32,5 @@ Email: name.surname.17@ucl.ac.uk
 [pel]: http://www.gatsby.ucl.ac.uk/~pel/
 [tor]: http://tor-lattimore.com/
 [googlescholar]: https://scholar.google.co.uk/citations?user=kLCmh2oAAAAJ&hl=en
+[cv]: {{ site.baseurl }}/pdfs/CV.pdf
 
