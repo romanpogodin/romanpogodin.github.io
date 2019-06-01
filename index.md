@@ -4,7 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-I am a PhD student in theoretical neuroscience at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London). 
+I am a PhD student in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
+ 
+Currently, I work on models of associative memory.
+ I also did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
 
 Before joining Gatsby in 2017, I received a BSc (honours) in applied mathematics and physics
 from [Moscow Insitute of Physics and Technology][mipt] (2013-2017). I also finished the first year of the 
@@ -18,10 +21,15 @@ Besides that, I did a few research internships:
 
 Email: name.surname.17@ucl.ac.uk
 
+[Google Scholar][googlescholar]
+
 [gatsby]: http://www.gatsby.ucl.ac.uk/
 [mipt]: https://mipt.ru/english/
 [shad]: https://yandexdataschool.com/
 [skoltech]: https://www.skoltech.ru/en
 [epfl]: https://sv.epfl.ch/summer-research
 [lmu]: http://www.amgenscholars.mcn.uni-muenchen.de/
+[pel]: http://www.gatsby.ucl.ac.uk/~pel/
+[tor]: http://tor-lattimore.com/
+[googlescholar]: https://scholar.google.co.uk/citations?user=kLCmh2oAAAAJ&hl=en
 
