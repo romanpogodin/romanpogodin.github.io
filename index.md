@@ -6,9 +6,9 @@ layout: home
 ---
 I am a PhD student in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
  
-Currently, I work on models of associative memory.
- I also did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
+Currently, I work on biologically plausible learning in deep networks ([arXiv preprint][plausible-kernelized-bottleneck]).
 
+During my PhD, I did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
 Before joining Gatsby in 2017, I received a BSc (honours) in applied mathematics and physics
 from [Moscow Insitute of Physics and Technology][mipt] (2013-2017). I also finished the first year of the 
 [Yandex School of Data Analysis][shad] (2016-2017, CS department).
@@ -32,5 +32,5 @@ Email: name.surname.17@ucl.ac.uk
 [pel]: http://www.gatsby.ucl.ac.uk/~pel/
 [tor]: http://tor-lattimore.com/
 [googlescholar]: https://scholar.google.co.uk/citations?user=kLCmh2oAAAAJ&hl=en
+[plausible-kernelized-bottleneck]: https://arxiv.org/abs/2006.07123
 [cv]: {{ site.baseurl }}/pdfs/CV.pdf
-
