@@ -6,7 +6,7 @@ layout: home
 ---
 I am a PhD student in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
  
-Currently, I work on biologically plausible learning in deep networks ([arXiv preprint][plausible-kernelized-bottleneck]).
+Currently, I work on biologically plausible learning in deep networks ([arXiv preprint][plausible-kernelized-bottleneck], accepted to NeurIPS 2020).
 
 During my PhD, I did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
 Before joining Gatsby in 2017, I received a BSc (honours) in applied mathematics and physics
