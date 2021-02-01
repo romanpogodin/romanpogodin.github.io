@@ -6,7 +6,7 @@ layout: home
 ---
 I am a PhD student in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
  
-Currently, I work on biologically plausible learning in deep networks ([arXiv preprint][plausible-kernelized-bottleneck], accepted to NeurIPS 2020).
+Currently, I work on biologically plausible learning in deep networks ([NeurIPS 2020][plausible-kernelized-bottleneck] work on 3-factor Hebbian learning rules for deep nets).
 
 During my PhD, I did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
 Before joining Gatsby in 2017, I received a BSc (honours) in applied mathematics and physics
@@ -32,5 +32,5 @@ Email: name.surname.17@ucl.ac.uk
 [pel]: http://www.gatsby.ucl.ac.uk/~pel/
 [tor]: http://tor-lattimore.com/
 [googlescholar]: https://scholar.google.co.uk/citations?user=kLCmh2oAAAAJ&hl=en
-[plausible-kernelized-bottleneck]: https://arxiv.org/abs/2006.07123
+[plausible-kernelized-bottleneck]: https://papers.nips.cc/paper/2020/hash/517f24c02e620d5a4dac1db388664a63-Abstract.html
 [cv]: {{ site.baseurl }}/pdfs/CV.pdf
