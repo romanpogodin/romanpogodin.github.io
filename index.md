@@ -10,7 +10,7 @@ Currently, I work on biologically plausible learning in deep networks ([NeurIPS 
 
 During my PhD, I did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
 Before joining Gatsby in 2017, I received a BSc (honours) in applied mathematics and physics
-from [Moscow Insitute of Physics and Technology][mipt] (2013-2017). I also finished the first year of the 
+from [Moscow Institute of Physics and Technology][mipt] (2013-2017). I also finished the first year of the 
 [Yandex School of Data Analysis][shad] (2016-2017, CS department).
 
 Besides that, I did a few research internships:
