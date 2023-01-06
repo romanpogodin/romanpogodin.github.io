@@ -4,10 +4,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-I am a PhD student in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
+I'm starting a PostDoc in theoretical neuroscience at McGill/Mila with [Blake Richards][blake]. 
  
 Currently, I work on biologically plausible learning in deep networks ([NeurIPS 2020][plausible-kernelized-bottleneck] work on 3-factor Hebbian learning rules for deep nets; [arXiv pre-print (accepted to NeurIPS 2021)][plausible-conv] on plausibility of convolutional networks) and on self-supervised learning ([arXiv pre-print (accepted to NeurIPS 2021)][ssl-hsic] on using kernel methods for this problem).
 
+I did my PhD in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
 During my PhD, I did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
 Before joining Gatsby in 2017, I received a BSc (honours) in applied mathematics and physics
 from [Moscow Institute of Physics and Technology][mipt] (2013-2017). I also finished the first year of the 
@@ -29,6 +30,7 @@ Email: name.surname.17@ucl.ac.uk
 [skoltech]: https://www.skoltech.ru/en
 [epfl]: https://sv.epfl.ch/summer-research
 [lmu]: http://www.amgenscholars.mcn.uni-muenchen.de/
+[blake]: https://www.mcgill.ca/neuro/blake-richards-phd
 [pel]: http://www.gatsby.ucl.ac.uk/~pel/
 [tor]: http://tor-lattimore.com/
 [googlescholar]: https://scholar.google.co.uk/citations?user=kLCmh2oAAAAJ&hl=en
