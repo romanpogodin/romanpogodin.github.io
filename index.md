@@ -6,7 +6,7 @@ layout: home
 ---
 I'm a PostDoc in theoretical neuroscience at McGill/Mila with [Blake Richards][blake]. 
  
-I work on biologically plausible learning in deep networks ([NeurIPS 2020][plausible-kernelized-bottleneck] work on 3-factor Hebbian learning rules for deep nets; [NeurIPS 2021][plausible-conv] on plausibility of convolutional networks; [arXiv preprint][weights] on the link between synaptic weight geometry and weight distributions). I also work on representation learning using kernel methods. Here are my works on self-supervised learning ([NeurIPS 2021][ssl-hsic]) and conditionally invariant representations ([notable-top-5% at ICLR 2023][circe]).
+I work on biologically plausible learning in deep networks ([NeurIPS 2020][plausible-kernelized-bottleneck] work on 3-factor Hebbian learning rules for deep nets; [NeurIPS 2021][plausible-conv] on plausibility of convolutional networks; [2023 arXiv preprint][weights] on the link between synaptic weight geometry and weight distributions). I also work on representation learning using kernel methods. Here are my works on self-supervised learning ([NeurIPS 2021][ssl-hsic]) and conditionally invariant representations ([notable-top-5% at ICLR 2023][circe]).
 
 I did my PhD in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
 During my PhD, I did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
