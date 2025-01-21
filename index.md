@@ -4,21 +4,21 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-I'm a PostDoc in theoretical neuroscience at McGill/Mila with [Blake Richards][blake]. 
+I'm a PostDoc in theoretical neuroscience at McGill/Mila with [Blake Richards][blake]. Before that, I did my PhD in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
  
-I work on biologically plausible learning in deep networks ([NeurIPS 2020][plausible-kernelized-bottleneck] work on 3-factor Hebbian learning rules for deep nets; [NeurIPS 2021][plausible-conv] on plausibility of convolutional networks; [2023 arXiv preprint][weights] on the link between synaptic weight geometry and weight distributions). I also work on representation learning using kernel methods. Here are my works on self-supervised learning ([NeurIPS 2021][ssl-hsic]) and measures of conditional dependence (CIRCE: [notable-top-5% at ICLR 2023][circe]; SplitKCI: [pre-print][splitkci]).
+I work on biologically plausible learning in deep networks ([NeurIPS 2020][plausible-kernelized-bottleneck] work on 3-factor Hebbian learning rules for deep nets; [NeurIPS 2021][plausible-conv] on plausibility of convolutional networks; [ICLR 2024 spotlight][weights] and [2024 bioRxiv preprint][egbioarxiv] on the link between synaptic weight geometry and weight distributions). I also work on representation learning using kernel methods. Here are my works on self-supervised learning ([NeurIPS 2021][ssl-hsic]) and measures of conditional dependence (CIRCE: [notable-top-5% at ICLR 2023][circe]; SplitKCI: [pre-print][splitkci]).
 
-I did my PhD in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
-During my PhD, I did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
-Before joining Gatsby in 2017, I received a BSc (honours) in applied mathematics and physics
-from [Moscow Institute of Physics and Technology][mipt] (2013-2017). I also finished the first year of the 
-[Yandex School of Data Analysis][shad] (2016-2017, CS department).
+# I did my PhD in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
+# During my PhD, I did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
+# Before joining Gatsby in 2017, I received a BSc (honours) in applied mathematics and physics
+# from [Moscow Institute of Physics and Technology][mipt] (2013-2017). I also finished the first year of the 
+# [Yandex School of Data Analysis][shad] (2016-2017, CS department).
 
-Besides that, I did a few research internships:
+# Besides that, I did a few research internships:
 
-1. [Skoltech, Moscow][skoltech], Yury Maximov's research group (2016-2017);
-2. [EPFL, SRP program][epfl], Wulfram Gerstner's lab (summer 2016);
-3. [LMU, Amgen Scholars program][lmu], Christian Leibold's lab (summer 2015).
+# 1. [Skoltech, Moscow][skoltech], Yury Maximov's research group (2016-2017);
+# 2. [EPFL, SRP program][epfl], Wulfram Gerstner's lab (summer 2016);
+# 3. [LMU, Amgen Scholars program][lmu], Christian Leibold's lab (summer 2015).
 
 Email: name.surname@mila.quebec
 
@@ -40,4 +40,5 @@ Email: name.surname@mila.quebec
 [circe]: https://arxiv.org/abs/2212.08645
 [weights]: https://arxiv.org/abs/2305.19394
 [splitkci]: https://arxiv.org/abs/2402.13196
+[egbioarxiv]: https://www.biorxiv.org/content/10.1101/2024.10.25.620272v1.abstract 
 [cv]: {{ site.baseurl }}/pdfs/CV.pdf
