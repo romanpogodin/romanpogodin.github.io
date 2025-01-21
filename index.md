@@ -8,18 +8,7 @@ I'm a PostDoc in theoretical neuroscience at McGill/Mila with [Blake Richards][b
  
 I work on biologically plausible learning in deep networks ([NeurIPS 2020][plausible-kernelized-bottleneck] work on 3-factor Hebbian learning rules for deep nets; [NeurIPS 2021][plausible-conv] on plausibility of convolutional networks; [ICLR 2024 spotlight][weights] and [2024 bioRxiv preprint][egbioarxiv] on the link between synaptic weight geometry and weight distributions). I also work on representation learning using kernel methods. Here are my works on self-supervised learning ([NeurIPS 2021][ssl-hsic]) and measures of conditional dependence (CIRCE: [notable-top-5% at ICLR 2023][circe]; SplitKCI: [pre-print][splitkci]).
 
-# I did my PhD in theoretical neuroscience with [Peter E. Latham][pel] at [Gatsby Computational Neuroscience Unit][gatsby] (UCL, London).
-# During my PhD, I did a breadth rotation project in multi-armed bandits with [Tor Lattimore][tor] (DeepMind). 
-# Before joining Gatsby in 2017, I received a BSc (honours) in applied mathematics and physics
-# from [Moscow Institute of Physics and Technology][mipt] (2013-2017). I also finished the first year of the 
-# [Yandex School of Data Analysis][shad] (2016-2017, CS department).
-
-# Besides that, I did a few research internships:
-
-# 1. [Skoltech, Moscow][skoltech], Yury Maximov's research group (2016-2017);
-# 2. [EPFL, SRP program][epfl], Wulfram Gerstner's lab (summer 2016);
-# 3. [LMU, Amgen Scholars program][lmu], Christian Leibold's lab (summer 2015).
-
+---
 Email: name.surname@mila.quebec
 
 [CV][cv], [Google Scholar][googlescholar]
